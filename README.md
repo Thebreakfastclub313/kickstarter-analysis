@@ -24,7 +24,7 @@ We don't have data on fundraising gifts and incentives or promo videos which we 
 
 
 ## Outcomes Based on Goal
-![Outcomes Based on Goal](images/Outcomes_based_on_goal.png)
+![outcomes-based-on-goals-v2](images/outcomes-based-on-goals-v2.png)
 
 
 ### Challenge
