@@ -23,9 +23,12 @@ She will likely want her campaign length to be between 30 and 60 days, but will 
 She should focus on her marketing swag and video to attract staff picks and maximize size of donation to acrue more $90+ donations. 
 
 
-## Outcomes Based on Launch Date
-![Outcomes Based on Launch Date](images/Outcomes_based_on_launch_date.png)
-
-
 ## Outcomes Based on Goal
 ![Outcomes Based on Goal](images/Outcomes_based_on_goal.png)
+
+
+### Challenge
+
+In the outcomes based on launch date we created a line chart of completed campaigns visualizing which months were more or less sucessful during which months of the year.
+
+In the outcomes based on goals sheet we created a data visualization of percentage of success based on funding goals.
