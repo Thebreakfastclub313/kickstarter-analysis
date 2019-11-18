@@ -14,4 +14,10 @@ Based on this data launching your campaign between Febuary and May gives the gre
 
 ![longitudinal_launch_data](longitudinal_launch_data.png)
 
-The average successful campaign for play funding in the US is $5,048.00 and is funded by _____ avg # of doners and average donation $$
+The average successful campaign for play funding in the US is $5,048.00 with the exception of a few outliers, most succesful campaigns fall between the $1,000.00 and $5,000.00 funding range. 
+
+and is funded by avg of 63 doners and frequently as few as 41 for the median number of doners.  Average donation for campaigns in her category are 88.78$ and Median Donation of $40.67
+
+She will likely want her campaign length to be between 30 and 60 days, but will have a good idea by 30 days whether it is going to be sucessful. 
+
+She should focus on her marketing swag and video to attract staff picks and maximize size of donation to acrue more $90+ donations. 
