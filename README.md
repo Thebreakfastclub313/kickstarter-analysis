@@ -20,7 +20,7 @@ and is funded by avg of 63 doners and frequently as few as 41 for the median num
 
 She will likely want her campaign length to be between 30 and 60 days, but will have a good idea by 30 days whether it is going to be sucessful. 
 
-She should focus on her marketing swag and video to attract staff picks and maximize size of donation to acrue more $90+ donations. 
+We don't have data on fundraising gifts and incentives or promo videos which we know can have a huge impact on funding. Non the less, she should focus on her marketing swag and video to attract staff picks and maximize size of donation to acrue more $90+ donations. 
 
 
 ## Outcomes Based on Goal
